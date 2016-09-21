@@ -17,7 +17,7 @@
 }];
 ```
 效果:
-![image](https://github.com/Baichenghui/UIImageVIewAddIndicator/blob/master/SDWebImage-Categary-UIActivityIndicator/effective_pic.png)
+![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/a.png)
 
 
 2.```UIView+BCHAlert ```
@@ -32,7 +32,7 @@
 }];
 ```
 效果:
-![image](https://github.com/Baichenghui/UIImageVIewAddIndicator/blob/master/SDWebImage-Categary-UIActivityIndicator/effective_pic.png)
+![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/b.png)
 
 
 3.```UIAlertController+BCHHelperKitUIKit```
@@ -48,7 +48,7 @@
             }];
 ```
 效果:
-![image](https://github.com/Baichenghui/UIImageVIewAddIndicator/blob/master/SDWebImage-Categary-UIActivityIndicator/effective_pic.png)
+![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/c.png)
 
 
 代码:
@@ -62,5 +62,5 @@
             }];
 ```
 效果:
-![image](https://github.com/Baichenghui/UIImageVIewAddIndicator/blob/master/SDWebImage-Categary-UIActivityIndicator/effective_pic.png)
+![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/d.png)
 
