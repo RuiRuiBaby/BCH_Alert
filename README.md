@@ -17,6 +17,7 @@
 }];
 ```
 效果:
+
 ![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/a.png)
 
 
@@ -32,6 +33,7 @@
 }];
 ```
 效果:
+
 ![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/b.png)
 
 
@@ -48,6 +50,7 @@
             }];
 ```
 效果:
+
 ![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/c.png)
 
 
@@ -62,5 +65,6 @@
             }];
 ```
 效果:
+
 ![image](https://github.com/Baichenghui/BCH_Alert/blob/master/images/d.png)
 
